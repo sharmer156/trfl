@@ -1,3 +1,6 @@
+https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652028993&idx=6&sn=042f3aee6c12c8917b6084e5fe64b176&chksm=f121b4b0c6563da63edeb1827bfaee11a7a07e1445892e56cbd6b56a805427c34614872a16a4&mpshare=1&scene=1&srcid=1018THC88JfeiiDjnPIhrSHl#rd
+
+今天，DeepMind开源了一个内部强化学习库TRFL，用于在TensorFlow中编写强化学习智能体。这个库包含DeepMind开发的大量成功的agent的关键算法组件，对于强化学习智能体的再现研究很有用。
 # TRFL
 
 TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes
